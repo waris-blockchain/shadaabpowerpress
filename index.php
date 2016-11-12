@@ -40,7 +40,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
      		 			<input type="text"><input type="submit" value="" />
      		 		</form>
      		 	</div>
-     		 	<div class="clear"> </div><br><br><br>
+     		 	<div class="clear"> </div>
      		 	<div class="main-header">
      		 		<div class="logo">
      		 			<h1><a href="index.php"><img src="images/logo.png" title="logo" /></a></h1>
@@ -49,7 +49,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
      		 			<ul>
      		 				<li class="active"><a href="index.php">Home</a></li>
      		 				<li><a href="about.php">About us</a></li>
-     		 				<li><a href="tips.php">Products</a></li>
+     		 				<li><a href="products.php">Products</a></li>
      		 				<li><a href="services.php">Our Clients</a></li>
      		 				<li><a href="gallery.php">Gallery</a></li>
      		 				<li><a href="contact.php">Contact us</a></li>

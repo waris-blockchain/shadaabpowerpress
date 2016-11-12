@@ -10,9 +10,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<title>Factory Website Template | Gallery :: W3layouts</title>
 		<link href="css/style.css" rel="stylesheet" type="text/css"  media="all" />
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 		 <script type="text/javascript" src="js/move-top.js"></script>
 	     <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
-		  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 		  <script type="text/javascript" src="js/jquery.easing.1.3.js"></script> 
 		  <script type="text/javascript" src="js/move-top.js"></script>
 	</head>
@@ -48,7 +48,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
      		 			<ul>
      		 				<li><a href="index.php">Home</a></li>
      		 				<li><a href="about.php">About us</a></li>
-     		 				<li><a href="tips.php">Products</a></li>
+     		 				<li><a href="products.php">Products</a></li>
      		 				<li><a href="services.php">Our Clients</a></li>
      		 				<li class="active"><a href="gallery.php">Gallery</a></li>
      		 				<li><a href="contact.php">Contact us</a></li>
@@ -61,7 +61,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
      		  
 			<!---start-content---->
 			<div class="content">
-					<!-----start-gallery----->
+					
 					<div class="gallerys">
 					<h3>gallery</h3>
 					<div class="gallery-grids">
@@ -121,7 +121,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</ul>
 					</div>
 				</div>
-					<!-----End-gallery----->
+					
 				<div class="clear"> </div>
 				<div class="cooking-eq">
 						<h3>Foctory Equipment</h3>
@@ -139,7 +139,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 						<div class="clear"> </div>
 					</div>
-				<!---End-cooking-tips----->
+				
 			<!---End-content---->
 		</div>
 		<!---End-wrap---->

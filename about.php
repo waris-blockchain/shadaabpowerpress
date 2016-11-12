@@ -48,7 +48,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
      		 			<ul>
      		 				<li><a href="index.php">Home</a></li>
      		 				<li class="active"><a href="about.php">About us</a></li>
-     		 				<li><a href="tips.php">Products</a></li>
+     		 				<li><a href="products.php">Products</a></li>
      		 				<li><a href="services.php">Our Clients</a></li>
      		 				<li><a href="gallery.php">Gallery</a></li>
      		 				<li><a href="contact.php">Contact us</a></li>
