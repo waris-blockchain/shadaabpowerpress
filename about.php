@@ -64,10 +64,18 @@ License URL: http://creativecommons.org/licenses/by/3.0/idsjfoijsad
 				<!---start-about---->
 				<div class="about">
 					<div class="about-left">
-						<h2>About Foctory</h2>
-						<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</span>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-						<div class="about-histore">
+						<h2>About Us</h2>
+						<h2>Our History</h2>
+				        <p>
+				        Based in Indore, MP – India, we commenced our business in the year 1982. Under the profound inspiration of our company’s proprietor, Mr. Abdul Qayyum Ansari, all our team members are dedicated towards completing the commitment and meet targets all the time. With over 30 years of experience in the field of Mechanical Power Press machines manufacturing, our mentor has a rare combination of technical acumen and management skills. He gave wings to his vision by establishing the company in 1982 as the proprietor.
+                        Starting as a small organization with limited infrastructure and manpower, we have worked our way toward becoming one of the biggest manufacturers of high quality Mechanical Power Press equipments in our home town and thank to Customer Satisfactions.
+                        </p>
+                        <h2>our Infrastructure</h2>
+                        <p>
+                        Currently, our facilities encompasses 2 manufacturing units in one of the oldest and most respectable industrial areas of Indore, which is strategically located with easy access to rail, road and air transportation under In 10km.
+                        Our facilities include state-of-the-art production machineries for manufacturing our products. Our sound infrastructure supports our processing units, along with two manufacturing units, which ensures the regular supplies of the finished products.
+</p>
+					<!--<div class="about-histore">
 									<h3>Our History</h3>
 									<div class="historey-lines">
 										<ul>
@@ -105,26 +113,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/idsjfoijsad
 										</ul>
 									</div>
 									<div class="clear"> </div>
-								</div>
+								</div>-->
 					</div>	
 					<div class="about-right">
 						<div class="about-sidebar">
-							<h3>WE PROVIDE</h3>
+							<h3>Our Products</h3>
+							<p>Mechanical Power Press Machines</p>
 							 <ul>
-							  	<li><a href="#">Lorem ipsum dolor sit amet</a></li>
-							  	<li><a href="#">Conse ctetur adipisicing</a></li>
-							  	<li><a href="#">Elit sed do eiusmod tempor</a></li>
-							  	<li><a href="#">Incididunt ut labore</a></li>
-							  	<li><a href="#">Et dolore magna aliqua</a></li>
-							  	<li><a href="#">Ut enim ad minim veniam</a></li>
-					 		 </ul>
-					 		 <h3>ARCHIVES</h3>
+							  	<li><a href="#">C - Type Press</a></li>
+							  	<li><a href="#">Pillar Type Press</a></li>
+							  	<li><a href="#">Monkey Type Press</a></li>
+							  	<li><a href="#">Incremental Type Press And Special Purposes</a></li>
+							 </ul>
+					 	<!--	 <h3>ARCHIVES</h3>
 					 		 <ul>
 					 		 	<li><a href="#">JAN, 2013</a></li>
 					 		 	<li><a href="#">FEB, 2013</a></li>
 					 		 	<li><a href="#">MAR, 2013</a></li>
 					 		 	<li><a href="#">APRIL, 2013</a></li>
-					 		 </ul>
+					 		 </ul>-->
 						</div>
 					</div>
 					<div class="clear"> </div>
